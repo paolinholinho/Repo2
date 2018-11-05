@@ -1,0 +1,10 @@
+ Il volume nell'unit… C Š Windows
+ Numero di serie del volume: 8EF3-9E13
+
+ Directory di C:\Users\Paolo\GitProjects
+
+05/11/2018  15:31    <DIR>          .
+05/11/2018  15:31    <DIR>          ..
+05/11/2018  15:31                 0 test1.txt
+               1 File              0 byte
+               2 Directory  156.087.369.728 byte disponibili
